@@ -1,0 +1,6 @@
+framework module CustomBase {
+  umbrella header "CustomBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

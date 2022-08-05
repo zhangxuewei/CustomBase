@@ -1,0 +1,16 @@
+PODS:
+  - CustomBase (0.1.0)
+
+DEPENDENCIES:
+  - CustomBase (from `../`)
+
+EXTERNAL SOURCES:
+  CustomBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomBase: ef3fbb813b041f74f66d4e90c2a538babf69f9ad
+
+PODFILE CHECKSUM: 7be1203c1b0e496b266ff98065f7e46284aaf95d
+
+COCOAPODS: 1.11.3
